@@ -34,12 +34,13 @@ Contributions to this project are welcome. Feel free to submit pull requests for
 
 
 ## 🚀 About Me
-I'm a student developer with an emphasis on Java, C++, and Python.  
+I'm a Software Engineer with an emphasis on Java, SQL, and AWS.  
 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-hayes-msml/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AHayes_Ninja_)
+[![art portfolio](https://img.shields.io/badge/my_art-888?style=for-the-badge&logo=ko-fi&logoColor=white)](https://andreachristinehayes.wixsite.com/andreahayesart/)
 
 
 0 comments on commit b6b68ed
